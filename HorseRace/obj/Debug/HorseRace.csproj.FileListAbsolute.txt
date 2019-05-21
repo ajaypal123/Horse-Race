@@ -1,0 +1,20 @@
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\obj\Debug\HorseRace.csprojAssemblyReference.cache
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\obj\Debug\RandomLabelMove.game.resources
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\obj\Debug\HorseRace.csproj.GenerateResource.cache
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\obj\Debug\Bike Race.exe
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\obj\Debug\Bike Race.pdb
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\bin\Debug\Bike Race.exe.config
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\bin\Debug\Bike Race.exe
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\bin\Debug\Bike Race.pdb
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\obj\Debug\bikerace.Properties.Resources.resources
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\BikeRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\bin\Debug\Bike Race.exe.config
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\bin\Debug\Bike Race.exe
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\bin\Debug\Bike Race.pdb
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\obj\Debug\HorseRace.csprojAssemblyReference.cache
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\obj\Debug\RandomLabelMove.game.resources
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\obj\Debug\bikerace.Properties.Resources.resources
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\obj\Debug\HorseRace.csproj.GenerateResource.cache
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\obj\Debug\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\obj\Debug\Bike Race.exe
+C:\Users\sunny\Desktop\horse race\BikeRacer-master\HorseRace\obj\Debug\Bike Race.pdb
